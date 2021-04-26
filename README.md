@@ -1,0 +1,1 @@
+# teshca-dotnet-azure-servicefabric
